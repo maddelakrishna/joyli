@@ -17,11 +17,7 @@
   <dependencies>
   <!-- dependency for driver -->
   <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
-<dependency>
-    <groupId>mysql</groupId>
-    <artifactId>mysql-connector-java</artifactId>
-    <version>8.0.15</version>
-</dependency>
+
   
   <!--dependency for hibernate  -->
   <dependency>
